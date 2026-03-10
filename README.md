@@ -13,7 +13,7 @@ In addition to completing the assigned project, I enhanced the dashboard with **
 ## Dashboard Preview
 
 ```
-![Dashboard Preview]("C:\Users\Adithya\Pictures\Screenshots\Screenshot 2026-03-10 130507.png")
+![Dashboard Preview](dashboard.png)
 ```
 
 ---
